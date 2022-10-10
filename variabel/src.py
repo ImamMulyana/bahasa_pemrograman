@@ -23,3 +23,5 @@ data ("dian", "123")
 #contoh
 def total (sisi):
     return sisi*sisi
+def segitiga (alas, tinggi):
+    return 0.5*alas*tinggi
