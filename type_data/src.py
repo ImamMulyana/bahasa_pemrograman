@@ -5,7 +5,7 @@ print (type(a))
 
 # Integer
 b = 12
-peint(b)
+print(b)
 print (type(b))
 
 # float
@@ -18,7 +18,7 @@ d = 20.5
 print(d)
 print(type(d))
 
-y = tuple("a","b","c")
+y = tuple ("a")
 print (y)
 
 # data complex
