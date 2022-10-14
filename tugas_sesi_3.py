@@ -30,3 +30,5 @@ matriks2 = [
 for x in range (0, len(matriks1)):
     for y in range (0, len(matriks1[0])):
         print (matriks1[x][y] + matriks2[x][y], end= ' ')
+
+print ("dwddyu")
