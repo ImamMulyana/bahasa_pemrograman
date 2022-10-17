@@ -1,21 +1,4 @@
-
-print ("===variabel dan definisi===")
-#variabel dan definisi
-a = "Imam Mulyana\n"
-def func():
-    a = "any"
-    print ("selamat " + a,"\n")
-func()
-print(a)
-
-def tambah ():
-    a = 5
-    b = 3
-    c = a+b
-    print (c)
-tambah()
-
-print ("===definisi parameter===")
+gi
 #definisi parameter
 def data (nama, nim):
     print ("Nama saya",nama," dan NIM saya",nim)
