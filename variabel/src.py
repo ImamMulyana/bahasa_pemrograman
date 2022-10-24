@@ -1,4 +1,4 @@
-gi
+
 #definisi parameter
 def data (nama, nim):
     print ("Nama saya",nama," dan NIM saya",nim)
