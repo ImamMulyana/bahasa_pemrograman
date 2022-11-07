@@ -1,5 +1,3 @@
-# contoh cara coding sederhana
-
 def capucino():
     print("memilih capucino")
     a = int(input("masukkan harga : "))
