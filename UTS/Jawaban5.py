@@ -1,17 +1,16 @@
 def capucino():
     print("memilih capucino")
     a = int(input("masukkan harga : "))
-    b = 10/100*a
-    c = a+b
+    b = 10 / 100 * a
+    c = a + b
     print("Jumlah yang harus di bayarkan ", c)
-    
 
 
 def teh():
     print("memilih teh")
     a = int(input("masukkan harga : "))
-    b = 10/100*a
-    c = a+b
+    b = 10 / 100 * a
+    c = a + b
     print("Jumlah yang harus di bayarkan ", c)
 
 
